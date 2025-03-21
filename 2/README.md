@@ -1,0 +1,1 @@
+Tested with Python 3.11.11. Use `pip install --upgrade -r requirements.txt` to install the required packages. Only for the second session.
