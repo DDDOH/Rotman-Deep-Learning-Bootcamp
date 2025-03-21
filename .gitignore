@@ -2,7 +2,7 @@
 .python-version
 *.csv
 *.zip
-*.txt
+2/data/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
